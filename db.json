@@ -1,0 +1,83 @@
+{
+"Food" : {
+    "01" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "https://images.pexels.com/photos/209459/pexels-photo-209459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350",
+      "menuId" : "11",
+      "name" : "GINGER PAO",
+      "price" : "1000"
+    },
+    "02" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "https://images.pexels.com/photos/410648/pexels-photo-410648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350",
+      "menuId" : "11",
+      "name" : "COCONUT PAO",
+      "price" : "1000"
+    },
+    "03" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "https://images.pexels.com/photos/1199960/pexels-photo-1199960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350",
+      "menuId" : "11",
+      "name" : "RED BEAN PAO",
+      "price" : "1000"
+    },
+    "04" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "https://images.pexels.com/photos/958546/pexels-photo-958546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350",
+      "menuId" : "11",
+      "name" : "CHAR SIEW PAO",
+      "price" : "1000"
+    },
+    "05" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "https://images.pexels.com/photos/1059905/pexels-photo-1059905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350",
+      "menuId" : "11",
+      "name" : "CHAI PAO",
+      "price" : "1000"
+    },
+    "06" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "https://images.pexels.com/photos/221143/pexels-photo-221143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350",
+      "menuId" : "11",
+      "name" : "ONDE ONDE",
+      "price" : "1000"
+    },
+    "07" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350",
+      "menuId" : "11",
+      "name" : "CHAI KUIH",
+      "price" : "1000"
+    },
+    "08" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "https://images.pexels.com/photos/970107/pexels-photo-970107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350",
+      "menuId" : "11",
+      "name" : "YAM CAKE",
+      "price" : "1000"
+    },
+    "09" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "https://images.pexels.com/photos/8279/muffin.jpg?auto=compress&cs=tinysrgb&dpr=2&h=350",
+      "menuId" : "11",
+      "name" : "RADISH CAKE",
+      "price" : "1000"
+    },
+    "10" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "https://sallysbakingaddiction.com/wp-content/uploads/2017/09/best-pumpkin-cake.jpg",
+      "menuId" : "11",
+      "name" : "PUMPKIN CAKE",
+      "price" : "1000"
+    }
+}
