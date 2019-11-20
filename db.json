@@ -5,15 +5,18 @@
     },
     { "id": 2,
      "word": null,
-     "upload_path": "https://passiveincomemd.com/wp-content/uploads/2017/05/rich-vs-wealthy-300x200.jpg"
+     "upload_path": "https://passiveincomemd.com/wp-content/uploads/2017/05/rich-vs-wealthy-300x200.jpg",
+     "AnswerOption": ["Poor","Rich","Worth"]
     },
     { "id": 3, 
      "word": "flag",
-     "Upload_path": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg"
+     "Upload_path": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg",
+     "AnswerOption": ["Poor","Rich","Worth"]
     },
     { "id": 3, 
      "word": "flag",
-     "Upload_path": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg"
+     "Upload_path": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg",
+     "AnswerOption": ["Poor","Rich","Worth"]
     }
   ]
 }
