@@ -1,4 +1,6 @@
 {
+ "gamedetail"
+ [
  "flashcard": [
     { "id": 1, "word": "Rich","upload_path" : null
     },
@@ -15,4 +17,5 @@
      "Upload_path": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg"
     }
   ]
+]
 }
