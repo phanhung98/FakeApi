@@ -1,6 +1,6 @@
 {
  "gameplay": [
-    { "id": 1, "word": "Rich","upload_path" : null, 
+    { "id": 1, "word": "Rich","upload_path" : "https://i.pinimg.com/originals/4c/86/76/4c86763bafb14035a21509ab887be0d5.png", 
      "AnswerOption": ["Poor","Rich","Worth"]
     },
     { "id": 2,
