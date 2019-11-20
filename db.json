@@ -1,8 +1,7 @@
 {
- "gamedetail"
- [
  "flashcard": [
-    { "id": 1, "word": "Rich","upload_path" : null
+    { "id": 1, "word": "Rich","upload_path" : null, 
+     "AnswerOption": ["value": "Poor", "value": "Rich","value": "worth"]
     },
     { "id": 2,
      "word": null,
@@ -17,5 +16,4 @@
      "Upload_path": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg"
     }
   ]
-]
 }
