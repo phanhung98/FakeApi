@@ -1,7 +1,7 @@
 {
  "flashcard": [
     { "id": 1, "word": "Rich","upload_path" : null, 
-     "AnswerOption": ["value": "Poor", "value": "Rich","value": "worth"]
+     "AnswerOption": ["Poor","Rich","Worth"]
     },
     { "id": 2,
      "word": null,
