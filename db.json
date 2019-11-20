@@ -1,5 +1,5 @@
 {
- "gamedetail": [
+ "gameplay": [
     { "id": 1, "word": "Rich","upload_path" : null, 
      "AnswerOption": ["Poor","Rich","Worth"]
     },
