@@ -1,22 +1,22 @@
 {
  "gameplay": [
-    { "id": 1, "word": "Rich","uploadpath" : "https://i.pinimg.com/originals/4c/86/76/4c86763bafb14035a21509ab887be0d5.png", 
-     "answeroption": ["Poor","Rich","Worth"]
+    { "id": 1, "word": "Rich","uploadPath" : "https://i.pinimg.com/originals/4c/86/76/4c86763bafb14035a21509ab887be0d5.png", 
+     "answerOption": ["Poor","Rich","Worth"]
     },
     { "id": 2,
      "word": null,
-     "uploadpath": "https://passiveincomemd.com/wp-content/uploads/2017/05/rich-vs-wealthy-300x200.jpg",
-     "answeroption": ["Good","Well","Best"]
+     "uploadPath": "https://passiveincomemd.com/wp-content/uploads/2017/05/rich-vs-wealthy-300x200.jpg",
+     "answerOption": ["Good","Well","Best"]
     },
     { "id": 3, 
      "word": "flag",
-     "uploadpath": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg",
-     "answeroption": ["Poor","Rich","Worth"]
+     "uploadPath": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg",
+     "answerOption": ["Poor","Rich","Worth"]
     },
     { "id": 3, 
      "word": "flag",
-     "uploadpath": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg",
-     "answeroption": ["Poor","Rich","Worth"]
+     "uploadPath": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg",
+     "answerOption": ["Poor","Rich","Worth"]
     }
   ],
  "listgame": [
@@ -24,42 +24,42 @@
     "id": "1",
     "name": "Game 1",
     "thumbnail": "https://media.paperblog.fr/i/556/5561535/fun-despicable-avengers-minions-hulk-captain--L-jBDGLm.jpeg",
-    "flashcardtotal": "123"
+    "flashcardTotal": "123"
   },
   {
     "id": "2",
     "name": "Game 2",
     "thumbnail": "https://i.ytimg.com/vi/NoWiIPDQe48/hqdefault.jpg",
-    "flashcardtotal": "123"
+    "flashcardTotal": "123"
   },
   {
     "id": "3",
     "name": "XXXXX",
     "thumbnail": "https://image.tmdb.org/t/p/w500_and_h282_face/5ZPCBjUdnQ1QVgeOBHNx764Ha0x.jpg",
-    "flashcardtotal": "123"
+    "flashcardTotal": "123"
   }
 ],
  "gamedetail": [
   { 
     "id": "1",
     "name": "Game one",
-    "highestscore": 100,
+    "highestScore": 100,
     "thumbnail": "https://media.paperblog.fr/i/556/5561535/fun-despicable-avengers-minions-hulk-captain--L-jBDGLm.jpeg",
-    "flashcardtotal": 20
+    "flashcardTotal": 20
   },
   {
    "id": "2",
    "name": "Game two",
-    "highestscore": 200,
+    "highestScore": 200,
     "thumbnail": "https://i.ytimg.com/vi/NoWiIPDQe48/hqdefault.jpg",
-    "flashcardtotal": 20
+    "flashcardTotal": 20
   },
   {
    "id": "3",
     "name": "Game three",
-    "highestscore": 800,
+    "highestScore": 800,
     "thumbnail": "https://image.tmdb.org/t/p/w500_and_h282_face/5ZPCBjUdnQ1QVgeOBHNx764Ha0x.jpg",
-    "flashcardtotal": 20
+    "flashcardTotal": 20
   }
 ]
  
