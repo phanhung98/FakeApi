@@ -45,21 +45,21 @@
     "name": "Game one",
     "highest_score": 100,
     "thumbnail": "https://media.paperblog.fr/i/556/5561535/fun-despicable-avengers-minions-hulk-captain--L-jBDGLm.jpeg",
-    "flashcard_total": 12
+    "flashcard_total": 20
   },
   {
    "id": "2",
    "name": "Game two",
-    "highest_score": 100,
+    "highest_score": 200,
     "thumbnail": "https://i.ytimg.com/vi/NoWiIPDQe48/hqdefault.jpg",
-    "flashcard_total": 12
+    "flashcard_total": 20
   },
   {
    "id": "3",
     "name": "Game three",
-    "highest_score": 100,
+    "highest_score": 800,
     "thumbnail": "https://image.tmdb.org/t/p/w500_and_h282_face/5ZPCBjUdnQ1QVgeOBHNx764Ha0x.jpg",
-    "flashcard_total": 12
+    "flashcard_total": 20
   }
 ]
  
