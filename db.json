@@ -11,12 +11,12 @@
     { "id": 3, 
      "word": "flag",
      "uploadPath": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg",
-     "answerOption": ["Poor","Rich","Worth"]
+     "answerOption": ["Flag","Pet","Bow"]
     },
     { "id": 3, 
      "word": "flag",
-     "uploadPath": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg",
-     "answerOption": ["Poor","Rich","Worth"]
+     "uploadPath": "https://images-na.ssl-images-amazon.com/images/I/41v36IBHnUL.jpg",
+     "answerOption": ["Meat","Clother","Bag"]
     }
   ],
  "listgame": [
