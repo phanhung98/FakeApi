@@ -8,15 +8,15 @@
      "answerOption": ["Poor","Rich","Worth"]
     },
     { "id": 2,
-     "typeId": 1,
+     "typeId": 2,
      "word": null,
      "uploadPath": "https://passiveincomemd.com/wp-content/uploads/2017/05/rich-vs-wealthy-300x200.jpg",
      "rightAnswer" : "Well",
      "answerOption": ["Good","Well","Best"]
     },
     { "id": 3, 
-     "word": null,
      "typeId": 2,
+     "word": null,
      "uploadPath": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg",
      "rightAnswer" : "Bow",
      "answerOption": ["Flag","Pet","Bow"]
