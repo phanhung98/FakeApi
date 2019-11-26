@@ -2,7 +2,7 @@
  "gameplay": [
     { "id": 1,
      "typeId": 1,
-     "word": "Rich",
+     "word": "Giàu có",
      "uploadPath" : null,
      "rightAnswer" : "Poor",
      "answerOption": ["Poor","Rich","Worth"]
@@ -11,19 +11,19 @@
      "typeId": 2,
      "word": null,
      "uploadPath": "https://passiveincomemd.com/wp-content/uploads/2017/05/rich-vs-wealthy-300x200.jpg",
-     "rightAnswer" : "Well",
-     "answerOption": ["Good","Well","Best"]
+     "rightAnswer" : "Minion",
+     "answerOption": ["Banana","Minion","Orange"]
     },
     { "id": 3, 
      "typeId": 2,
      "word": null,
      "uploadPath": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg",
-     "rightAnswer" : "Bow",
+     "rightAnswer" : "Flag",
      "answerOption": ["Flag","Pet","Bow"]
     },
     { "id": 4,
      "typeId": 1,
-     "word": "flag",
+     "word": "Cái túi",
      "uploadPath": null,
      "rightAnswer" : "Bag",
      "answerOption": ["Meat","Clother","Bag"]
