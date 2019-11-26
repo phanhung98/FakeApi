@@ -1,26 +1,30 @@
 {
  "gameplay": [
-    { "id": 1, 
+    { "id": 1,
+     "typeId": 1,
      "word": "Rich",
-     "uploadPath" : "https://i.pinimg.com/originals/4c/86/76/4c86763bafb14035a21509ab887be0d5.png",
+     "uploadPath" : null,
      "rightAnswer" : "Poor",
      "answerOption": ["Poor","Rich","Worth"]
     },
     { "id": 2,
+     "typeId": 1,
      "word": null,
      "uploadPath": "https://passiveincomemd.com/wp-content/uploads/2017/05/rich-vs-wealthy-300x200.jpg",
      "rightAnswer" : "Well",
      "answerOption": ["Good","Well","Best"]
     },
     { "id": 3, 
-     "word": "flag",
+     "word": null,
+     "typeId": 2,
      "uploadPath": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg",
      "rightAnswer" : "Bow",
      "answerOption": ["Flag","Pet","Bow"]
     },
-    { "id": 4, 
+    { "id": 4,
+     "typeId": 1,
      "word": "flag",
-     "uploadPath": "https://images-na.ssl-images-amazon.com/images/I/41v36IBHnUL.jpg",
+     "uploadPath": null,
      "rightAnswer" : "Bag",
      "answerOption": ["Meat","Clother","Bag"]
     }
