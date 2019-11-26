@@ -4,22 +4,22 @@
      "typeId": 1,
      "word": "Giàu có",
      "uploadPath" : null,
-     "rightAnswer" : "Poor",
+     "rightAnswer" : "Rich",
      "answerOption": ["Poor","Rich","Worth"]
     },
     { "id": 2,
      "typeId": 2,
      "word": null,
      "uploadPath": "https://passiveincomemd.com/wp-content/uploads/2017/05/rich-vs-wealthy-300x200.jpg",
-     "rightAnswer" : "Minion",
-     "answerOption": ["Banana","Minion","Orange"]
+     "rightAnswer" : "Money",
+     "answerOption": ["Money","Gold","Orange"]
     },
     { "id": 3, 
      "typeId": 2,
      "word": null,
      "uploadPath": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg",
      "rightAnswer" : "Flag",
-     "answerOption": ["Flag","Pet","Bow"]
+     "answerOption": ["Book","Ball","Flag"]
     },
     { "id": 4,
      "typeId": 1,
