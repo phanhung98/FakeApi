@@ -85,7 +85,24 @@
     "thumbnail": "https://image.tmdb.org/t/p/w500_and_h282_face/5ZPCBjUdnQ1QVgeOBHNx764Ha0x.jpg",
     "flashcardTotal": 20
   }
-]
+],
+ "score": [
+  {
+   "userName": "Tan cute",
+   "gameName": "Game one",
+   "score": "50"
+  },
+  {
+   "userName": "Thi beauty",
+   "gameName": "Game one",
+   "score": "49"
+  },
+  {
+   "userName": "Ngoc baby",
+   "gameName": "Game one",
+   "score": "48"
+  }
+  ]
  
 }
 
