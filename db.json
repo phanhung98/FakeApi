@@ -21,7 +21,21 @@
      "rightAnswer" : "Flag",
      "answerOption": ["Book","Ball","Flag"]
     },
-    { "id": 4,
+  { "id": 4, 
+     "typeId": 3,
+     "word": "Quả bóng",
+     "uploadPath": "https://www.balloonsandweights.com/wp-content/uploads/2014/10/Mini-Foam-Soccer-Ball-Back-Side-BalloonsAndWeights.com_.jpg",
+     "rightAnswer" : "Ball",
+     "answerOption": ["Car","Ball","Phone"]
+    },
+  { "id": 5, 
+     "typeId": 3,
+     "word": "Bút chì",
+     "uploadPath": "https://elvisswiftdrygoods.com/wp-content/uploads/613_Pencils_3.png",
+     "rightAnswer" : "Pencil",
+     "answerOption": ["Pen","Glass","Pencil"]
+    },
+    { "id": 6,
      "typeId": 1,
      "word": "Cái túi",
      "uploadPath": null,
