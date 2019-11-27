@@ -90,17 +90,17 @@
   {
    "userName": "Tan cute",
    "gameName": "Game one",
-   "score": "50"
+   "score": 50.0
   },
   {
    "userName": "Thi beauty",
    "gameName": "Game one",
-   "score": "49"
+   "score": 49.0
   },
   {
    "userName": "Ngoc baby",
    "gameName": "Game one",
-   "score": "48"
+   "score": 48.0
   }
   ]
  
