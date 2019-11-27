@@ -45,22 +45,16 @@
   ],
  "listgame": [
   {
-    "id": "1",
     "name": "Game 1",
-    "thumbnail": "https://media.paperblog.fr/i/556/5561535/fun-despicable-avengers-minions-hulk-captain--L-jBDGLm.jpeg",
-    "flashcardTotal": "123"
+    "thumbnail": "https://media.paperblog.fr/i/556/5561535/fun-despicable-avengers-minions-hulk-captain--L-jBDGLm.jpeg"
   },
-  {
-    "id": "2",
+  { 
     "name": "Game 2",
-    "thumbnail": "https://i.ytimg.com/vi/NoWiIPDQe48/hqdefault.jpg",
-    "flashcardTotal": "123"
+    "thumbnail": "https://i.ytimg.com/vi/NoWiIPDQe48/hqdefault.jpg"
   },
   {
-    "id": "3",
     "name": "XXXXX",
-    "thumbnail": "https://image.tmdb.org/t/p/w500_and_h282_face/5ZPCBjUdnQ1QVgeOBHNx764Ha0x.jpg",
-    "flashcardTotal": "123"
+    "thumbnail": "https://image.tmdb.org/t/p/w500_and_h282_face/5ZPCBjUdnQ1QVgeOBHNx764Ha0x.jpg"
   }
 ],
  "gamedetail": [
