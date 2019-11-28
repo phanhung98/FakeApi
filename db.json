@@ -1,4 +1,26 @@
 {
+ 
+ {
+  "1": 
+    { 
+     "id": 1,
+     "typeId": 1,
+     "word": "Giàu có",
+     "uploadPath" : null,
+     "rightAnswer" : "Rich",
+     "answerOption": ["Poor","Rich","Worth"]
+    },
+
+ "2":
+    { 
+     "id": 2,
+     "typeId": 2,
+     "word": null,
+     "uploadPath": "https://passiveincomemd.com/wp-content/uploads/2017/05/rich-vs-wealthy-300x200.jpg",
+     "rightAnswer" : "Money",
+     "answerOption": ["Money","Gold","Orange"]
+    },
+ 
  "listgame": [
   {
     "name": "Game 1",
@@ -36,34 +58,5 @@
     "flashcardTotal": 20
   }
 ],
- 
- "hightscore": [
-  {
-   "userName": "Tan cute",
-   "gameName": "Game one",
-   "score": 50.0
-  },
-  {
-   "userName": "Thi beauty",
-   "gameName": "Game one",
-   "score": 49.0
-  },
-  {
-   "userName": "Ngoc baby",
-   "gameName": "Game one",
-   "score": 48.0
-  },
-  {
-   "userName": "Ty sexy",
-   "gameName": "Game two",
-   "score": 40.0
-  },
-  {
-   "userName": "Ngoc lovely",
-   "gameName": "Game two",
-   "score": 20.0
-  }
-  ]
- 
 }
 
