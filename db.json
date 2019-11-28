@@ -1,59 +1,69 @@
 {
   "1": 
     { 
-     "id": 1,
-     "typeId": 1,
+     "type_id": 1,
      "word": "Giàu có",
-     "uploadPath" : null,
-     "rightAnswer" : "Rich",
-     "answerOption": ["Poor","Rich","Worth"]
+     "upload_path" : null,
+     "right_answer" : "Rich",
+     "value": ["Poor","Rich","Worth"]
     },
 
  "2":
     { 
-     "id": 2,
-     "typeId": 2,
+     "type_id": 2,
      "word": null,
-     "uploadPath": "https://passiveincomemd.com/wp-content/uploads/2017/05/rich-vs-wealthy-300x200.jpg",
-     "rightAnswer" : "Money",
-     "answerOption": ["Money","Gold","Orange"]
+     "upload_path": "https://passiveincomemd.com/wp-content/uploads/2017/05/rich-vs-wealthy-300x200.jpg",
+     "right_answer" : "Money",
+     "value": ["Money","Gold","Orange"]
     },
  
  "listgame": [
   {
     "name": "Game 1",
-    "thumbnail": "https://media.paperblog.fr/i/556/5561535/fun-despicable-avengers-minions-hulk-captain--L-jBDGLm.jpeg"
+    "upload_path": "https://media.paperblog.fr/i/556/5561535/fun-despicable-avengers-minions-hulk-captain--L-jBDGLm.jpeg"
   },
   { 
     "name": "Game 2",
-    "thumbnail": "https://i.ytimg.com/vi/NoWiIPDQe48/hqdefault.jpg"
+    "upload_path": "https://i.ytimg.com/vi/NoWiIPDQe48/hqdefault.jpg"
   },
   {
     "name": "XXXXX",
-    "thumbnail": "https://image.tmdb.org/t/p/w500_and_h282_face/5ZPCBjUdnQ1QVgeOBHNx764Ha0x.jpg"
+    "upload_path": "https://image.tmdb.org/t/p/w500_and_h282_face/5ZPCBjUdnQ1QVgeOBHNx764Ha0x.jpg"
   }
   ],
  "gamedetail": [
   { 
     "id": "1",
     "name": "Game one",
-    "highestScore": 100,
-    "thumbnail": "https://media.paperblog.fr/i/556/5561535/fun-despicable-avengers-minions-hulk-captain--L-jBDGLm.jpeg",
-    "flashcardTotal": 20
+    "score": 100,
+    "upload_path": "https://media.paperblog.fr/i/556/5561535/fun-despicable-avengers-minions-hulk-captain--L-jBDGLm.jpeg",
+    "flashcard_total": 20,
+    "flashcard_id": 
+    [
+      1,2          
+    ]
   },
   {
    "id": "2",
    "name": "Game two",
-    "highestScore": 200,
-    "thumbnail": "https://i.ytimg.com/vi/NoWiIPDQe48/hqdefault.jpg",
-    "flashcardTotal": 20
+    "score": 200,
+    "upload_path": "https://i.ytimg.com/vi/NoWiIPDQe48/hqdefault.jpg",
+    "flashcardTotal": 20,
+    "flashcard_id": 
+    [
+      1,2          
+    ]
   },
   {
    "id": "3",
     "name": "Game three",
-    "highestScore": 800,
-    "thumbnail": "https://image.tmdb.org/t/p/w500_and_h282_face/5ZPCBjUdnQ1QVgeOBHNx764Ha0x.jpg",
-    "flashcardTotal": 20
+    "score": 800,
+    "upload_path": "https://image.tmdb.org/t/p/w500_and_h282_face/5ZPCBjUdnQ1QVgeOBHNx764Ha0x.jpg",
+    "flashcardTotal": 20,
+     "flashcard_id": 
+    [
+      1,2          
+    ]
   }
 ]
 }
