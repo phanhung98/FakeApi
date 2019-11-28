@@ -1,40 +1,4 @@
 {
- "1": 
-    { 
-     "id": 1,
-     "typeId": 1,
-     "word": "Giàu có",
-     "uploadPath" : null,
-     "rightAnswer" : "Rich",
-     "answerOption": ["Poor","Rich","Worth"]
-    },
- 
-   "2":
-    { 
-     "id": 2,
-     "typeId": 2,
-     "word": null,
-     "uploadPath": "https://passiveincomemd.com/wp-content/uploads/2017/05/rich-vs-wealthy-300x200.jpg",
-     "rightAnswer" : "Money",
-     "answerOption": ["Money","Gold","Orange"]
-    },
-    
- "3":{ "id": 3, 
-     "typeId": 2,
-     "word": null,
-     "uploadPath": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg",
-     "rightAnswer" : "Flag",
-     "answerOption": ["Book","Ball","Flag"]
-    },
-  
- "4":{ "id": 4, 
-     "typeId": 3,
-     "word": "Quả bóng",
-     "uploadPath": "https://www.balloonsandweights.com/wp-content/uploads/2014/10/Mini-Foam-Soccer-Ball-Back-Side-BalloonsAndWeights.com_.jpg",
-     "rightAnswer" : "Ball",
-     "answerOption": ["Car","Ball","Phone"]
-    },
- 
  "listgame": [
   {
     "name": "Game 1",
