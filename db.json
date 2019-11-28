@@ -1,48 +1,40 @@
 {
- 1: [
-    { "id": 1,
+ "1": 
+    { 
+     "id": 1,
      "typeId": 1,
      "word": "Giàu có",
      "uploadPath" : null,
      "rightAnswer" : "Rich",
      "answerOption": ["Poor","Rich","Worth"]
     },
-    { "id": 2,
+ 
+   "2":
+    { 
+     "id": 2,
      "typeId": 2,
      "word": null,
      "uploadPath": "https://passiveincomemd.com/wp-content/uploads/2017/05/rich-vs-wealthy-300x200.jpg",
      "rightAnswer" : "Money",
      "answerOption": ["Money","Gold","Orange"]
     },
-    { "id": 3, 
+    
+ "3":{ "id": 3, 
      "typeId": 2,
      "word": null,
      "uploadPath": "https://images-na.ssl-images-amazon.com/images/I/61erFQgMFwL._SX425_.jpg",
      "rightAnswer" : "Flag",
      "answerOption": ["Book","Ball","Flag"]
     },
-  { "id": 4, 
+  
+ "4":{ "id": 4, 
      "typeId": 3,
      "word": "Quả bóng",
      "uploadPath": "https://www.balloonsandweights.com/wp-content/uploads/2014/10/Mini-Foam-Soccer-Ball-Back-Side-BalloonsAndWeights.com_.jpg",
      "rightAnswer" : "Ball",
      "answerOption": ["Car","Ball","Phone"]
     },
-  { "id": 5, 
-     "typeId": 3,
-     "word": "Bút chì",
-     "uploadPath": "https://elvisswiftdrygoods.com/wp-content/uploads/613_Pencils_3.png",
-     "rightAnswer" : "Pencil",
-     "answerOption": ["Pen","Glass","Pencil"]
-    },
-    { "id": 6,
-     "typeId": 1,
-     "word": "Cái túi",
-     "uploadPath": null,
-     "rightAnswer" : "Bag",
-     "answerOption": ["Meat","Clother","Bag"]
-    }
-  ],
+ 
  "listgame": [
   {
     "name": "Game 1",
@@ -55,8 +47,7 @@
   {
     "name": "XXXXX",
     "thumbnail": "https://image.tmdb.org/t/p/w500_and_h282_face/5ZPCBjUdnQ1QVgeOBHNx764Ha0x.jpg"
-  }
-],
+  },
  "gamedetail": [
   { 
     "id": "1",
