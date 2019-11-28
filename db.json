@@ -50,7 +50,7 @@
    "name": "Game two",
     "score": 200,
     "upload_path": "https://i.ytimg.com/vi/NoWiIPDQe48/hqdefault.jpg",
-    "flashcardTotal": 20,
+    "flashcard_total": 20,
     "flashcard_id": 
     [
       1,2          
@@ -61,7 +61,7 @@
     "name": "Game three",
     "score": 800,
     "upload_path": "https://image.tmdb.org/t/p/w500_and_h282_face/5ZPCBjUdnQ1QVgeOBHNx764Ha0x.jpg",
-    "flashcardTotal": 20,
+    "flashcard_total": 20,
      "flashcard_id": 
     [
       1,2          
