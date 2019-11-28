@@ -1,21 +1,23 @@
 {
-  "1": 
+  "1":[ 
     { 
      "type_id": 1,
      "word": "Giàu có",
      "upload_path" : null,
      "right_answer" : "Rich",
      "value": ["Poor","Rich","Worth"]
-    },
-
+    }
+      ],
  "2":
+  [
     { 
      "type_id": 2,
      "word": null,
      "upload_path": "https://passiveincomemd.com/wp-content/uploads/2017/05/rich-vs-wealthy-300x200.jpg",
      "right_answer" : "Money",
      "value": ["Money","Gold","Orange"]
-    },
+    }
+    ],
  
  "listgame": [
   {
