@@ -1,6 +1,4 @@
-{
-"listgame":
-  [
+[
     {"name": "Game one", 
      "upload_path": "https://media.paperblog.fr/i/556/5561535/fun-despicable-avengers-minions-hulk-captain--L-jBDGLm.jpeg"
     },
@@ -13,4 +11,3 @@
      "upload_path": "https://image.tmdb.org/t/p/w500_and_h282_face/5ZPCBjUdnQ1QVgeOBHNx764Ha0x.jpg"
     }
   ]
-}
