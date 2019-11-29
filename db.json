@@ -25,20 +25,20 @@
 "highscore": 
   [
     { 
-     "userName": "Ngọc Ngẩn Ngơ",
-     "gameName": "Game one",
+     "username": "Ngọc Ngẩn Ngơ",
+     "gamename": "Game one",
      "score": 50
     },
   
     { 
-     "userName": "Thi Thẫn Thờ",
-     "gameName": "Game one",
+     "username": "Thi Thẫn Thờ",
+     "gamename": "Game one",
      "score": 48
     },
     
   {
-     "userName": "Hùng Hăng Hái",
-     "gameName": "Game one",
+     "username": "Hùng Hăng Hái",
+     "gamename": "Game one",
      "score": 46
     },
   
