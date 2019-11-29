@@ -4,7 +4,7 @@
     "name": "Game one",
     "score": 100,
     "upload_path": "https://media.paperblog.fr/i/556/5561535/fun-despicable-avengers-minions-hulk-captain--L-jBDGLm.jpeg",
-    "flashcard_total": 2,
+    "flashcard_total": 4,
     "flashcard_id": 
     [
       1,2,3,4         
@@ -15,7 +15,7 @@
    "name": "Game two",
     "score": 200,
     "upload_path": "https://i.ytimg.com/vi/NoWiIPDQe48/hqdefault.jpg",
-    "flashcard_total": 2,
+    "flashcard_total": 4,
     "flashcard_id": 
     [
       1,2,3,4         
@@ -26,7 +26,7 @@
     "name": "Game three",
     "score": 800,
     "upload_path": "https://image.tmdb.org/t/p/w500_and_h282_face/5ZPCBjUdnQ1QVgeOBHNx764Ha0x.jpg",
-    "flashcard_total": 2,
+    "flashcard_total": 4,
      "flashcard_id": 
     [
       1,2,3,4          
