@@ -1,0 +1,38 @@
+{
+"highscore": 
+  [
+    { 
+     "username": "Ngọc Ngẩn Ngơ",
+     "gamename": "Game one",
+     "score": 50
+    },
+  
+    { 
+     "username": "Thi Thẫn Thờ",
+     "gamename": "Game one",
+     "score": 48
+    },
+    
+  {
+     "username": "Hùng Hăng Hái",
+     "gamename": "Game one",
+     "score": 46
+    },
+  
+  { 
+    "username": "Tân Tí Tởn",
+     "gamename": "Game two",
+     "score": 30
+    },
+    { 
+    "username": "Thi Thần Thái",
+     "gamename": "Game two",
+     "score": 28
+    },
+    { 
+    "username": "Hùng Ham Học",
+     "gamename": "Game one",
+     "score": 25
+    }
+    ]
+}
