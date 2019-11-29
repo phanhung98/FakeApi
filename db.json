@@ -16,20 +16,33 @@
      "value": ["Money","Gold","Orange"]
     },
  
- "listgame": [
+"hightscore": 
+  [
+    { 
+     "username": "Ngọc Ngẩn Ngơ",
+     "gamename": "Game one",
+     "score": 50
+    },
+  
+    { 
+     "username": "Thi Thẫn Thờ",
+     "gamename": "Game one",
+     "score": 48
+    },
+    
   {
-    "name": "Game 1",
-    "upload_path": "https://media.paperblog.fr/i/556/5561535/fun-despicable-avengers-minions-hulk-captain--L-jBDGLm.jpeg"
-  },
+     "username": "Hùng Hăng Hái",
+     "gamename": "Game one",
+     "score": 46
+    },
+  
   { 
-    "name": "Game 2",
-    "upload_path": "https://i.ytimg.com/vi/NoWiIPDQe48/hqdefault.jpg"
-  },
-  {
-    "name": "XXXXX",
-    "upload_path": "https://image.tmdb.org/t/p/w500_and_h282_face/5ZPCBjUdnQ1QVgeOBHNx764Ha0x.jpg"
-  }
-  ],
+    "username": "Tân Tí Tởn",
+     "gamename": "Game tưo",
+     "score": 40
+    }
+    ],
+  
  "gamedetail": [
   { 
     "id": 1,
