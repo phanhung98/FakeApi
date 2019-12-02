@@ -1,21 +1,11 @@
 [
-    {"id": 1,
+    {"id": 5,
     "name": "Game one", 
      "upload_path": "https://media.paperblog.fr/i/556/5561535/fun-despicable-avengers-minions-hulk-captain--L-jBDGLm.jpeg"
     },
     {
-    "id": 2,
+    "id": 6,
     "name": "Game two", 
      "upload_path": "https://i.ytimg.com/vi/NoWiIPDQe48/hqdefault.jpg"
-    },
-    {
-    "id": 3,
-      "name": "Game three", 
-     "upload_path": "https://image.tmdb.org/t/p/w500_and_h282_face/5ZPCBjUdnQ1QVgeOBHNx764Ha0x.jpg"
-    },
-    {
-    "id": 4,
-      "name": "Game four", 
-     "upload_path": "https://image.tmdb.org/t/p/w500_and_h282_face/5ZPCBjUdnQ1QVgeOBHNx764Ha0x.jpg"
     }
   ]
