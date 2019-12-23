@@ -1,36 +1,36 @@
 
   [
     { 
-     "user_name": "Ngọc Ngẩn Ngơ",
-     "game_name": "Game one",
+     "userName": "Ngọc Ngẩn Ngơ",
+     "gameName": "Game one",
      "score": 50
     },
   
     { 
-     "user_name": "Thi Thẫn Thờ",
-     "game_name": "Game one",
+     "userName": "Thi Thẫn Thờ",
+     "gameName": "Game one",
      "score": 48
     },
     
   {
-     "user_name": "Hùng Hăng Hái",
-     "game_name": "Game one",
+     "userName": "Hùng Hăng Hái",
+     "gameName": "Game one",
      "score": 46
     },
   
   { 
-    "user_name": "Tân Tí Tởn",
-     "game_name": "Game two",
+    "userName": "Tân Tí Tởn",
+     "gameName": "Game two",
      "score": 30
     },
     { 
-    "user_name": "Thi Thần Thái",
-     "game_name": "Game two",
+    "userName": "Thi Thần Thái",
+     "gameName": "Game two",
      "score": 28
     },
     { 
-    "user_name": "Hùng Ham Học",
-     "game_name": "Game one",
+    "userName": "Hùng Ham Học",
+     "gameName": "Game one",
      "score": 25
     }
     ]
