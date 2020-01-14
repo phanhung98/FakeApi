@@ -1,65 +1,65 @@
 [
     {"id": 5,
     "name": "Game one", 
-     "upload_path": "https://exp.gg/vn/wp-content/uploads/2019/05/Minecraft-nen-1-768x512.jpg"
+     "releaseYear": 1999
     },
     {
     "id": 6,
     "name": "Game two", 
-     "upload_path": "https://www.ultragamerz.com/wp-content/uploads/2019/07/471544-analisis-gta-v-pc.jpg"
+     "releaseYear": 1999
     },
     {"id": 5,
     "name": "Game one", 
-     "upload_path": "https://exp.gg/vn/wp-content/uploads/2019/05/Minecraft-nen-1-768x512.jpg"
+     "releaseYear": 1999
     },
     {
     "id": 6,
     "name": "Game two", 
-     "upload_path": "https://www.ultragamerz.com/wp-content/uploads/2019/07/471544-analisis-gta-v-pc.jpg"
+     "releaseYear": 1999
     },
     {"id": 5,
     "name": "Game one", 
-     "upload_path": "https://exp.gg/vn/wp-content/uploads/2019/05/Minecraft-nen-1-768x512.jpg"
+     "releaseYear": 1999
     },
     {
     "id": 6,
     "name": "Game two", 
-     "upload_path": "https://www.ultragamerz.com/wp-content/uploads/2019/07/471544-analisis-gta-v-pc.jpg"
+     "releaseYear": 1999
     },
     {"id": 5,
     "name": "Game one", 
-     "upload_path": "https://exp.gg/vn/wp-content/uploads/2019/05/Minecraft-nen-1-768x512.jpg"
+     "releaseYear": 1999
     },
     {
     "id": 6,
     "name": "Game two", 
-     "upload_path": "https://www.ultragamerz.com/wp-content/uploads/2019/07/471544-analisis-gta-v-pc.jpg"
+     "releaseYear": 1999
     },
     {"id": 5,
     "name": "Game one", 
-     "upload_path": "https://exp.gg/vn/wp-content/uploads/2019/05/Minecraft-nen-1-768x512.jpg"
+    "releaseYear": 1999
     },
     {
     "id": 6,
     "name": "Game two", 
-     "upload_path": "https://www.ultragamerz.com/wp-content/uploads/2019/07/471544-analisis-gta-v-pc.jpg"
+    "releaseYear": 2000
     },
     {"id": 5,
     "name": "Game one", 
-     "upload_path": "https://exp.gg/vn/wp-content/uploads/2019/05/Minecraft-nen-1-768x512.jpg"
+     "releaseYear": 2000
     },
     {
     "id": 6,
     "name": "Game two", 
-     "upload_path": "https://www.ultragamerz.com/wp-content/uploads/2019/07/471544-analisis-gta-v-pc.jpg"
+     "releaseYear": 2000
     },
     {"id": 5,
     "name": "Game one", 
-     "upload_path": "https://exp.gg/vn/wp-content/uploads/2019/05/Minecraft-nen-1-768x512.jpg"
+     "releaseYear": 2000
     },
     {
     "id": 6,
     "name": "Game two", 
-     "upload_path": "https://www.ultragamerz.com/wp-content/uploads/2019/07/471544-analisis-gta-v-pc.jpg"
+     "releaseYear": 2000
     }
   ]
