@@ -1,50 +1,50 @@
 [
-    {"class": 5,
+    {"classRoom": 5,
     "name": "Mô Ri Nhô", 
      "year": 1999
     },
     {
-    "class": 6,
+    "classRoom": 6,
     "name": "Pép", 
      "year": 1999
     },
-    {"class": 5,
+    {"classRoom": 5,
     "name": "Sơ A Lếch Phê Bu Sơn", 
      "year": 1999
     },
     {
-    "class": 6,
+    "classRoom": 6,
     "name": "Si Mô Nê", 
      "year": 1999
     },
-    {"class": 5,
+    {"classRoom": 5,
     "name": "Van Gan", 
      "year": 1999
     },
     {
-    "class": 6,
+    "classRoom": 6,
     "name": "Gút Rít Đinh", 
      "year": 1999
     },
-    {"class": 5,
+    {"classRoom": 5,
     "name": "Lam Pát", 
      "year": 1999
     },
     {
-    "class": 6,
+    "classRoom": 6,
     "name": "Gát Tu Sô", 
      "year": 1999
     },
-    {"class": 5,
+    {"classRoom": 5,
     "name": "An Chê Lốt Ti", 
     "year": 1999
     },
     {
-    "classid": 6,
+    "classRoom": 6,
     "name": "Đờ Dăng", 
     "year": 2000
     },
-    {"class": 5,
+    {"classRoom": 5,
     "name": "Zi Lin Zi Đan", 
      "year": 2000
     }
