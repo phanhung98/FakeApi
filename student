@@ -1,0 +1,51 @@
+[
+    {"id": 5,
+    "name": "Phan Hung", 
+     "year": 1999
+    },
+    {
+    "id": 6,
+    "name": "Phan Cao", 
+     "year": 1999
+    },
+    {"id": 5,
+    "name": "Game one", 
+     "year": 1999
+    },
+    {
+    "id": 6,
+    "name": "Mét Si", 
+     "year": 1999
+    },
+    {"id": 5,
+    "name": "Ro Na Do", 
+     "year": 1999
+    },
+    {
+    "id": 6,
+    "name": "KaKa", 
+     "year": 1999
+    },
+    {"id": 5,
+    "name": "Zi Đan", 
+     "year": 1999
+    },
+    {
+    "id": 6,
+    "name": "Tô Rét", 
+     "year": 1999
+    },
+    {"id": 5,
+    "name": "Nê Ma", 
+    "year": 1999
+    },
+    {
+    "id": 6,
+    "name": "Xu A Rét", 
+    "year": 2000
+    },
+    {"id": 5,
+    "name": "Man Đi Ni", 
+     "year": 2000
+    }
+  ]
