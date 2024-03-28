@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "page": 1,
+      "resource_id": 9308671,
+      "resource_type": "MynaRecord",
+      "date": "2022-11-11",
+      "publisher_name": "処方箋発行医療機関Ａ",
+      "drugs": [
+        {
+          "name": "プルゼニド錠１２ｍｇ",
+          "url": "https://develop-medicinebook.pharumo.net/api/v1/bookmarks/1124001F1024/image",
+          "yj_code": "1124001F1024",
+          "hidden": true
+        },
+        {
+          "name": "プルゼニド錠１２ｍｇ",
+          "url": "https://develop-medicinebook.pharumo.net/api/v1/bookmarks/1124001F1025/image",
+          "yj_code": "1124001F1025",
+          "hidden": false
+        }
+      ]
+    }
+  ]
+}
